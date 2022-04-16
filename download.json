@@ -1,0 +1,318 @@
+)]}'
+{
+  "id": "36cb35e535100b8be026f70d3f3cf21c7d423e9a",
+  "entries": [
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "a7e2b900a4c286a4465a73f68c5a07ec69f876c2",
+      "name": ".gitattributes"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "01a11bf4115abd854045d13825324e5b0f3de4a8",
+      "name": ".gitignore"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "0c62111002096d13337be7d7ffb50d781d2ae6c8",
+      "name": ".gitmodules"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "d6a9413054bf2c4e1d86a528981fa6c279112d35",
+      "name": ".gitreview"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "f3db2184470aea4e65989d1e799a004245c14fe6",
+      "name": ".jscsrc"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "fdde7d054dc67669bfad1bba97786c570fb0f5a2",
+      "name": ".jshintignore"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "441c4e310bb3d62abc09185c9e7515f062606379",
+      "name": ".jshintrc"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "5c82af8118c5a5cd385110084ebd9a11c84289c9",
+      "name": ".mailmap"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "5b6c3f2dc622a1b439b1789e960cf89e57573fc7",
+      "name": ".rubocop.yml"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "9062194628ab1e4006ec582859996349f77f7373",
+      "name": ".travis.yml"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "1cdc9d42e13b73c9528ad79eafc5bb2279b08e77",
+      "name": "COPYING"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "a54bd90b538d44667317a825c22cf0dcb8a8a35d",
+      "name": "CREDITS"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "cfacf146768613193984e8e312b8a44e08f7c7c2",
+      "name": "FAQ"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "fa3a025ef017f7d56425ad380355ecc31d06e4b7",
+      "name": "Gemfile"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "2bbabd1b7c47fbda613d171578b6979831b52062",
+      "name": "Gemfile.lock"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "354f0483b615d0986739df2738e1fc9148a6c51d",
+      "name": "Gruntfile.js"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "e57d346316a4a5437fcaa32a7945ba41189a7c72",
+      "name": "HISTORY"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "0e8eb92a37354965d561c1834c6cb642efd75432",
+      "name": "INSTALL"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "6352e623bf31cbe20dec3c09a7fb3b54e3c79191",
+      "name": "README"
+    },
+    {
+      "mode": 40960,
+      "type": "blob",
+      "id": "100b93820ade4c16225673b4ca62bb3ade63c313",
+      "name": "README.mediawiki"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "8854cb31c3b8f7152d40de6dd5c9c8bd106d5c01",
+      "name": "RELEASE-NOTES-1.27"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "59f548057235f9875833211014614cc0ee516861",
+      "name": "Rakefile"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "bdf21396e2d7e5bbf55eb50950df95bc36f32eb7",
+      "name": "StartProfiler.sample"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "088701a3ebaab11b4a833dc01e131e59f60390ed",
+      "name": "UPGRADE"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "73621372829dc81f6f06f95fd832f1a65fa9d561",
+      "name": "api.php"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "2089c5717af979dfdec2c20ee4ce300f563781f2",
+      "name": "autoload.php"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "392e61ea2acb6d0b829db064ea4c27be11135348",
+      "name": "cache"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "7dee9ed50b8334c4c2a7fda8e95c02b3dfd3dbc8",
+      "name": "composer.json"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "1315afc5f5b1ec32a8bc2254dce65871d0df32c8",
+      "name": "composer.local.json-sample"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "caba43f85ff41465d732aa98e5627358e1bf25cf",
+      "name": "docs"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "20cd1da0ee4e89f79e11cd133a5b08cc8bda4db6",
+      "name": "extensions"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "a0fac0b226927ffe5b689d99cc34719f1c340e80",
+      "name": "images"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "d63618817a19ec4da0dc043aac146dff9fb7f2e1",
+      "name": "img_auth.php"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "26d22068d7fe19157fec766a887cf57c7e071990",
+      "name": "includes"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "24230923bcf45f8733cbf68e7fae9e18249a301b",
+      "name": "index.php"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "53300c56e42566e417c269307e06b67c2748e096",
+      "name": "jsduck.json"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "6e52aeb0388ab987f71155d78bd038366ca2cf87",
+      "name": "languages"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "2b97f7aa2a85109c68ca13f655e129c2c69c4e76",
+      "name": "load.php"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "14efe58d1b308a5a235f38bbc3033485e29af475",
+      "name": "maintenance"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "877afb2bb6a393161940637809bd8e1230bc2da0",
+      "name": "mw-config"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "bef168878f1df4fc3517abe347d22de53af625e0",
+      "name": "opensearch_desc.php"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "394f36ef187ebb53f2a7026a56ce6e53ff978b81",
+      "name": "package.json"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "d454647560bd42d6b4dcdad5daf25b95f1d1e409",
+      "name": "phpcs.xml"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "95636093c65a68c122d72709d1ed58c3f98aa4d3",
+      "name": "profileinfo.php"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "0ec9227917be951849dc146a0d84879dfd24e8ec",
+      "name": "resources"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "ff7877822439b1154f5ac08cf533615ff0ea45bb",
+      "name": "serialized"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "daecd7846a168e8513e4d788d061af34179a4473",
+      "name": "skins"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "e40197c6822b36f2788f9c3fc6fa52ec67489d50",
+      "name": "tests"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "fca25c55d28b51145c3da147aea3f73593f1e649",
+      "name": "thumb.php"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "e2b165b8a95b72812910b83fa4e47a77748a97ae",
+      "name": "thumb_handler.php"
+    },
+    {
+      "mode": 57344,
+      "type": "commit",
+      "id": "8a0dc240363580e91ec78d90e40ef4c63e7a60c1",
+      "name": "vendor"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "a1975457e1d1f37ea82be89120be40584ea72985",
+      "name": "wiki.phtml"
+    }
+  ]
+}

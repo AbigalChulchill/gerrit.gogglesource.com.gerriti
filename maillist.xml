@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<!-- MHonArc v2.6.19+ -->
+  <channel>
+    <title>openssl-users</title>
+    <link>http://www.mail-archive.com/openssl-users@openssl.org</link>
+    <description>openssl-users @ openssl</description>
+    <pubDate>Mon, 11 Apr 2022 08:52:58 GMT</pubDate>
+    <lastBuildDate>Mon, 11 Apr 2022 08:52:58 GMT</lastBuildDate>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <generator>MHonArc RSS 2.0 RCFile</generator>
+    <webMaster>themailarchive@gmail.com (The Mail Archive)</webMaster>
+    <image>
+       <title>The Mail Archive</title>
+       <url>http://www.mail-archive.com/nanologo.png</url>
+       <link>http://www.mail-archive.com/openssl-users@openssl.org</link>
+    </image>
+ 
+    <item>
+      <title>Re: Is there a simple implementation of hooking external private key with openssl-3.0 API?</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90772.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/04/11&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Matt Caswell%22&quot;&gt;Matt Caswell&lt;/a&gt;</description>
+      <pubDate>Mon, 11 Apr 2022 08:52:55 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90772.html</guid>
+   </item>
+    <item>
+      <title>Re: RSA and DES encryption and decryption with C++ on Windows</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90771.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/04/10&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Dr Paul Dale%22&quot;&gt;Dr Paul Dale&lt;/a&gt;</description>
+      <pubDate>Sun, 10 Apr 2022 22:52:07 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90771.html</guid>
+   </item>
+    <item>
+      <title>Re: RSA and DES encryption and decryption with C++ on Windows</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90770.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/04/10&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22John Alway%22&quot;&gt;John Alway&lt;/a&gt;</description>
+      <pubDate>Sun, 10 Apr 2022 18:56:20 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90770.html</guid>
+   </item>
+    <item>
+      <title>Is there a simple implementation of hooking external private key with openssl-3.0 API?</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90769.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/04/10&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Alon Bar-Lev%22&quot;&gt;Alon Bar-Lev&lt;/a&gt;</description>
+      <pubDate>Sun, 10 Apr 2022 18:18:41 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90769.html</guid>
+   </item>
+    <item>
+      <title>RE: RSA and DES encryption and decryption with C++ on Windows</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90768.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/04/10&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Michael Wojcik%22&quot;&gt;Michael Wojcik&lt;/a&gt;</description>
+      <pubDate>Sun, 10 Apr 2022 15:38:32 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90768.html</guid>
+   </item>
+    <item>
+      <title>RE:  RSA and DES encryption and decryption with C++ on Windows</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90767.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/04/10&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Kenneth Goldman%22&quot;&gt;Kenneth Goldman&lt;/a&gt;</description>
+      <pubDate>Sun, 10 Apr 2022 13:50:41 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90767.html</guid>
+   </item>
+    <item>
+      <title>Re: Fw: Reg: Memory leaks Using OpenSSL API - Unsure</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90766.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/04/10&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22pauli%22&quot;&gt;pauli&lt;/a&gt;</description>
+      <pubDate>Sun, 10 Apr 2022 08:18:58 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90766.html</guid>
+   </item>
+    <item>
+      <title>Fw: Reg: Memory leaks Using OpenSSL API - Unsure</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90765.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/04/10&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Ram Chandra via openssl-users%22&quot;&gt;Ram Chandra via openssl-users&lt;/a&gt;</description>
+      <pubDate>Sun, 10 Apr 2022 08:08:14 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90765.html</guid>
+   </item>
+    <item>
+      <title>RSA and DES encryption and decryption with C++ on Windows</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90764.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/04/10&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22John Alway%22&quot;&gt;John Alway&lt;/a&gt;</description>
+      <pubDate>Sun, 10 Apr 2022 01:45:44 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90764.html</guid>
+   </item>
+    <item>
+      <title>Re: OpenSSL 3.0 different behaviour on smaller DH groups?</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90763.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/04/05&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Michael Richardson%22&quot;&gt;Michael Richardson&lt;/a&gt;</description>
+      <pubDate>Tue, 05 Apr 2022 17:34:05 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90763.html</guid>
+   </item>
+    <item>
+      <title>OpenSSL 3.0 different behaviour on smaller DH groups?</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90762.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/04/05&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Simon Chopin%22&quot;&gt;Simon Chopin&lt;/a&gt;</description>
+      <pubDate>Tue, 05 Apr 2022 17:06:09 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90762.html</guid>
+   </item>
+    <item>
+      <title>Re: OpenSSL 3.0.2 PKCS12_parse Failure</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90761.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/04/05&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Tomas Mraz%22&quot;&gt;Tomas Mraz&lt;/a&gt;</description>
+      <pubDate>Tue, 05 Apr 2022 06:40:36 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90761.html</guid>
+   </item>
+    <item>
+      <title>Re: looking for properly configured Windows VMs</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90760.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/04/04&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Michael Richardson%22&quot;&gt;Michael Richardson&lt;/a&gt;</description>
+      <pubDate>Mon, 04 Apr 2022 15:25:50 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90760.html</guid>
+   </item>
+    <item>
+      <title>RE: OpenSSL 3.0.2 PKCS12_parse Failure</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90759.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/04/04&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22vchiliquinga--- via openssl-users%22&quot;&gt;vchiliquinga--- via openssl-users&lt;/a&gt;</description>
+      <pubDate>Mon, 04 Apr 2022 14:04:01 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90759.html</guid>
+   </item>
+    <item>
+      <title>RE: looking for properly configured Windows VMs</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90758.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/04/02&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Dr. Matthias St. Pierre%22&quot;&gt;Dr. Matthias St. Pierre&lt;/a&gt;</description>
+      <pubDate>Sat, 02 Apr 2022 18:25:01 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90758.html</guid>
+   </item>
+    <item>
+      <title>Re: looking for properly configured Windows VMs</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90757.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/04/02&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Michael Richardson%22&quot;&gt;Michael Richardson&lt;/a&gt;</description>
+      <pubDate>Sat, 02 Apr 2022 15:37:55 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90757.html</guid>
+   </item>
+    <item>
+      <title>RE: looking for properly configured Windows VMs</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90756.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/04/01&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Michael Wojcik%22&quot;&gt;Michael Wojcik&lt;/a&gt;</description>
+      <pubDate>Fri, 01 Apr 2022 22:03:45 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90756.html</guid>
+   </item>
+    <item>
+      <title>RE: looking for properly configured Windows VMs</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90755.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/04/01&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Michael Wojcik%22&quot;&gt;Michael Wojcik&lt;/a&gt;</description>
+      <pubDate>Fri, 01 Apr 2022 21:42:55 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90755.html</guid>
+   </item>
+    <item>
+      <title>RE: [openssl/openssl] bio_dgram vs IPv6</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90754.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/04/01&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Michael Wojcik%22&quot;&gt;Michael Wojcik&lt;/a&gt;</description>
+      <pubDate>Fri, 01 Apr 2022 21:42:13 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90754.html</guid>
+   </item>
+    <item>
+      <title>OpenSSL 3.0.2 PKCS12_parse Failure</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90753.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/04/01&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22vchiliquinga--- via openssl-users%22&quot;&gt;vchiliquinga--- via openssl-users&lt;/a&gt;</description>
+      <pubDate>Fri, 01 Apr 2022 18:15:15 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90753.html</guid>
+   </item>
+    <item>
+      <title>Re: [openssl/openssl] bio_dgram vs IPv6</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90752.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/04/01&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Michael Richardson%22&quot;&gt;Michael Richardson&lt;/a&gt;</description>
+      <pubDate>Fri, 01 Apr 2022 13:39:55 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90752.html</guid>
+   </item>
+    <item>
+      <title>looking for properly configured Windows VMs</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90751.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/04/01&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Michael Richardson%22&quot;&gt;Michael Richardson&lt;/a&gt;</description>
+      <pubDate>Fri, 01 Apr 2022 13:34:39 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90751.html</guid>
+   </item>
+    <item>
+      <title>RE: [openssl/openssl] bio_dgram vs IPv6</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90750.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/31&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Michael Wojcik%22&quot;&gt;Michael Wojcik&lt;/a&gt;</description>
+      <pubDate>Thu, 31 Mar 2022 21:25:07 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90750.html</guid>
+   </item>
+    <item>
+      <title>RE: [openssl/openssl] bio_dgram vs IPv6</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90749.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/31&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Michael Wojcik%22&quot;&gt;Michael Wojcik&lt;/a&gt;</description>
+      <pubDate>Thu, 31 Mar 2022 21:24:31 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90749.html</guid>
+   </item>
+    <item>
+      <title>Re: [openssl/openssl] bio_dgram vs IPv6</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90748.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/31&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Michael Richardson%22&quot;&gt;Michael Richardson&lt;/a&gt;</description>
+      <pubDate>Thu, 31 Mar 2022 20:19:50 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90748.html</guid>
+   </item>
+    <item>
+      <title>Re: [openssl/openssl] bio_dgram vs IPv6</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90747.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/31&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Michael Richardson%22&quot;&gt;Michael Richardson&lt;/a&gt;</description>
+      <pubDate>Thu, 31 Mar 2022 20:18:21 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90747.html</guid>
+   </item>
+    <item>
+      <title>Re: Cross-project request... looking for input on a rewrite of Asterisk's res_crypto.c module</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90746.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/31&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Philip Prindeville%22&quot;&gt;Philip Prindeville&lt;/a&gt;</description>
+      <pubDate>Thu, 31 Mar 2022 18:34:36 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90746.html</guid>
+   </item>
+    <item>
+      <title>Re: OpenSSL Memory Allocation Functions Issue</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90745.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/31&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Chris%22&quot;&gt;Chris&lt;/a&gt;</description>
+      <pubDate>Thu, 31 Mar 2022 13:51:20 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90745.html</guid>
+   </item>
+    <item>
+      <title>RE: Query regarding EVP_PKEY_CTX_set_cb</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90744.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/30&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Michel%22&quot;&gt;Michel&lt;/a&gt;</description>
+      <pubDate>Wed, 30 Mar 2022 18:54:50 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90744.html</guid>
+   </item>
+    <item>
+      <title>Re: Cross-project request... looking for input on a rewrite of Asterisk's res_crypto.c module</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90743.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/30&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22William Roberts%22&quot;&gt;William Roberts&lt;/a&gt;</description>
+      <pubDate>Wed, 30 Mar 2022 16:26:10 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90743.html</guid>
+   </item>
+    <item>
+      <title>Re: KDF_TLS1_PRF for TLS v1.0 and v1.1</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90742.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/30&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Matt Caswell%22&quot;&gt;Matt Caswell&lt;/a&gt;</description>
+      <pubDate>Wed, 30 Mar 2022 15:37:26 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90742.html</guid>
+   </item>
+    <item>
+      <title>OpenSSL Memory Allocation Functions Issue</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90741.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/30&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Chris%22&quot;&gt;Chris&lt;/a&gt;</description>
+      <pubDate>Wed, 30 Mar 2022 08:45:39 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90741.html</guid>
+   </item>
+    <item>
+      <title>Query regarding EVP_PKEY_CTX_set_cb</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90740.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/30&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Bala Duvvuri via openssl-users%22&quot;&gt;Bala Duvvuri via openssl-users&lt;/a&gt;</description>
+      <pubDate>Wed, 30 Mar 2022 08:43:37 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90740.html</guid>
+   </item>
+    <item>
+      <title>KDF_TLS1_PRF for TLS v1.0 and v1.1</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90739.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/29&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Kory Hamzeh%22&quot;&gt;Kory Hamzeh&lt;/a&gt;</description>
+      <pubDate>Tue, 29 Mar 2022 22:50:29 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90739.html</guid>
+   </item>
+    <item>
+      <title>Cross-project request... looking for input on a rewrite of Asterisk's res_crypto.c module</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90738.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/29&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Philip Prindeville%22&quot;&gt;Philip Prindeville&lt;/a&gt;</description>
+      <pubDate>Tue, 29 Mar 2022 20:40:44 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90738.html</guid>
+   </item>
+    <item>
+      <title>RE: [openssl/openssl] bio_dgram vs IPv6</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90737.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/29&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Michael Wojcik%22&quot;&gt;Michael Wojcik&lt;/a&gt;</description>
+      <pubDate>Tue, 29 Mar 2022 18:56:47 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90737.html</guid>
+   </item>
+    <item>
+      <title>Re: [openssl/openssl] bio_dgram vs IPv6</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90736.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/29&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Michael Richardson%22&quot;&gt;Michael Richardson&lt;/a&gt;</description>
+      <pubDate>Tue, 29 Mar 2022 17:54:18 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90736.html</guid>
+   </item>
+    <item>
+      <title>Test script is missing from openssl-1.0.2e.tar.gz onward.</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90735.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/28&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22rahul chauhan%22&quot;&gt;rahul chauhan&lt;/a&gt;</description>
+      <pubDate>Mon, 28 Mar 2022 15:41:50 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90735.html</guid>
+   </item>
+    <item>
+      <title>Re: Openssl v1.1.1d: pubkey_cb() returning SUCCESS for x509_pubkey_decode() Failure</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90734.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/28&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Brahmaji K%22&quot;&gt;Brahmaji K&lt;/a&gt;</description>
+      <pubDate>Mon, 28 Mar 2022 13:03:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90734.html</guid>
+   </item>
+    <item>
+      <title>Re: Openssl v1.1.1d: pubkey_cb() returning SUCCESS for x509_pubkey_decode() Failure</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90733.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/28&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Matt Caswell%22&quot;&gt;Matt Caswell&lt;/a&gt;</description>
+      <pubDate>Mon, 28 Mar 2022 12:59:44 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90733.html</guid>
+   </item>
+    <item>
+      <title>Openssl v1.1.1d: pubkey_cb() returning SUCCESS for x509_pubkey_decode() Failure</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90732.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/28&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Brahmaji K%22&quot;&gt;Brahmaji K&lt;/a&gt;</description>
+      <pubDate>Mon, 28 Mar 2022 12:12:28 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90732.html</guid>
+   </item>
+    <item>
+      <title>Re: Certificate, &quot;ecdsa_with_SHA3-512&quot; signature algorithm</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90731.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/28&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Mib%22&quot;&gt;Mib&lt;/a&gt;</description>
+      <pubDate>Mon, 28 Mar 2022 11:59:17 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90731.html</guid>
+   </item>
+    <item>
+      <title>Re: Autoconf and detecting if bio_st is defined or not</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90730.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/28&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Tomas Mraz%22&quot;&gt;Tomas Mraz&lt;/a&gt;</description>
+      <pubDate>Mon, 28 Mar 2022 09:47:10 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90730.html</guid>
+   </item>
+    <item>
+      <title>RE: Openssl 0.9.8 to 1.0.2u - HP-UX- After installation and softlink created -console does not connect</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90729.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/28&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Gaurav Mittal11%22&quot;&gt;Gaurav Mittal11&lt;/a&gt;</description>
+      <pubDate>Mon, 28 Mar 2022 09:45:40 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90729.html</guid>
+   </item>
+    <item>
+      <title>Re: Certificate, &quot;ecdsa_with_SHA3-512&quot; signature algorithm</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90728.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/28&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Tomas Mraz%22&quot;&gt;Tomas Mraz&lt;/a&gt;</description>
+      <pubDate>Mon, 28 Mar 2022 09:41:42 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90728.html</guid>
+   </item>
+    <item>
+      <title>Re: Static OpenSSL 3 library with FIPS</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90727.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/28&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Matt Caswell%22&quot;&gt;Matt Caswell&lt;/a&gt;</description>
+      <pubDate>Mon, 28 Mar 2022 07:39:24 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90727.html</guid>
+   </item>
+    <item>
+      <title>Certificate, &quot;ecdsa_with_SHA3-512&quot; signature algorithm</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90726.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/28&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Mib%22&quot;&gt;Mib&lt;/a&gt;</description>
+      <pubDate>Mon, 28 Mar 2022 06:24:58 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90726.html</guid>
+   </item>
+    <item>
+      <title>Re: CVE-2022-0778 - Impact of ECC cipher with valid server ECC certificate</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90725.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/27&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Vipul Mehta%22&quot;&gt;Vipul Mehta&lt;/a&gt;</description>
+      <pubDate>Sun, 27 Mar 2022 15:41:16 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90725.html</guid>
+   </item>
+    <item>
+      <title>Re: CVE-2022-0778 - Impact of ECC cipher with valid server ECC certificate</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90724.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/26&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Viktor Dukhovni%22&quot;&gt;Viktor Dukhovni&lt;/a&gt;</description>
+      <pubDate>Sat, 26 Mar 2022 07:31:05 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90724.html</guid>
+   </item>
+    <item>
+      <title>CVE-2022-0778 - Impact of ECC cipher with valid server ECC certificate</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90723.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/26&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Vipul Mehta%22&quot;&gt;Vipul Mehta&lt;/a&gt;</description>
+      <pubDate>Sat, 26 Mar 2022 07:02:45 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90723.html</guid>
+   </item>
+    <item>
+      <title>Autoconf and detecting if bio_st is defined or not</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90722.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/26&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Philip Prindeville%22&quot;&gt;Philip Prindeville&lt;/a&gt;</description>
+      <pubDate>Sat, 26 Mar 2022 00:34:09 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90722.html</guid>
+   </item>
+    <item>
+      <title>Re: EVP_KDF-SSHKDF man page error?</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90721.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/26&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Dr Paul Dale%22&quot;&gt;Dr Paul Dale&lt;/a&gt;</description>
+      <pubDate>Sat, 26 Mar 2022 00:09:14 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90721.html</guid>
+   </item>
+    <item>
+      <title>Re: EVP_KDF-SSHKDF man page error?</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90720.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/25&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Kory Hamzeh%22&quot;&gt;Kory Hamzeh&lt;/a&gt;</description>
+      <pubDate>Fri, 25 Mar 2022 23:44:07 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90720.html</guid>
+   </item>
+    <item>
+      <title>Re: EVP_KDF-SSHKDF man page error?</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90719.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/25&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22pauli%22&quot;&gt;pauli&lt;/a&gt;</description>
+      <pubDate>Fri, 25 Mar 2022 23:02:19 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90719.html</guid>
+   </item>
+    <item>
+      <title>RE: Static OpenSSL 3 library with FIPS</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90718.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/25&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Paul Spencer%22&quot;&gt;Paul Spencer&lt;/a&gt;</description>
+      <pubDate>Fri, 25 Mar 2022 21:00:03 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90718.html</guid>
+   </item>
+    <item>
+      <title>Re: Static OpenSSL 3 library with FIPS</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90717.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/25&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Matt Caswell%22&quot;&gt;Matt Caswell&lt;/a&gt;</description>
+      <pubDate>Fri, 25 Mar 2022 20:22:26 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90717.html</guid>
+   </item>
+    <item>
+      <title>Static OpenSSL 3 library with FIPS</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90716.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/25&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Paul Spencer%22&quot;&gt;Paul Spencer&lt;/a&gt;</description>
+      <pubDate>Fri, 25 Mar 2022 18:34:21 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90716.html</guid>
+   </item>
+    <item>
+      <title>EVP_KDF-SSHKDF man page error?</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90715.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/25&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Kory Hamzeh%22&quot;&gt;Kory Hamzeh&lt;/a&gt;</description>
+      <pubDate>Fri, 25 Mar 2022 18:12:13 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90715.html</guid>
+   </item>
+    <item>
+      <title>Re: Openssl 0.9.8 to 1.0.2u - HP-UX- After installation and softlink created -console does not connect</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90714.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/25&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Tomas Mraz%22&quot;&gt;Tomas Mraz&lt;/a&gt;</description>
+      <pubDate>Fri, 25 Mar 2022 10:00:56 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90714.html</guid>
+   </item>
+    <item>
+      <title>Openssl 0.9.8 to 1.0.2u - HP-UX- After installation and softlink created -console does not connect</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90713.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/25&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Gaurav Mittal11%22&quot;&gt;Gaurav Mittal11&lt;/a&gt;</description>
+      <pubDate>Fri, 25 Mar 2022 09:54:59 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90713.html</guid>
+   </item>
+    <item>
+      <title>Re: Porting asterisk to Openssl-3.0</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90712.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/25&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Tomas Mraz%22&quot;&gt;Tomas Mraz&lt;/a&gt;</description>
+      <pubDate>Fri, 25 Mar 2022 08:37:54 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90712.html</guid>
+   </item>
+    <item>
+      <title>Porting asterisk to Openssl-3.0</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90711.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/25&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Philip Prindeville%22&quot;&gt;Philip Prindeville&lt;/a&gt;</description>
+      <pubDate>Fri, 25 Mar 2022 04:19:45 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90711.html</guid>
+   </item>
+    <item>
+      <title>Re: [External] Re: SSL_connect() failing on SSL3_MT_NEWSESSION_TICKET on Raspberry Pi</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90710.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/24&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Matt Caswell%22&quot;&gt;Matt Caswell&lt;/a&gt;</description>
+      <pubDate>Thu, 24 Mar 2022 14:11:46 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90710.html</guid>
+   </item>
+    <item>
+      <title>RE: [External] Re: SSL_connect() failing on SSL3_MT_NEWSESSION_TICKET on Raspberry Pi</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90709.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/23&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Helde, Paavo via openssl-users%22&quot;&gt;Helde, Paavo via openssl-users&lt;/a&gt;</description>
+      <pubDate>Wed, 23 Mar 2022 18:08:31 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90709.html</guid>
+   </item>
+    <item>
+      <title>Re: [External] Re: SSL_connect() failing on SSL3_MT_NEWSESSION_TICKET on Raspberry Pi</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90708.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/23&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Matt Caswell%22&quot;&gt;Matt Caswell&lt;/a&gt;</description>
+      <pubDate>Wed, 23 Mar 2022 14:16:48 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90708.html</guid>
+   </item>
+    <item>
+      <title>RE: [External] Re: SSL_connect() failing on SSL3_MT_NEWSESSION_TICKET on Raspberry Pi</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90707.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/23&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Helde, Paavo via openssl-users%22&quot;&gt;Helde, Paavo via openssl-users&lt;/a&gt;</description>
+      <pubDate>Wed, 23 Mar 2022 14:00:38 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90707.html</guid>
+   </item>
+    <item>
+      <title>Re: [External] Re: SSL_connect() failing on SSL3_MT_NEWSESSION_TICKET on Raspberry Pi</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90706.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/23&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Matt Caswell%22&quot;&gt;Matt Caswell&lt;/a&gt;</description>
+      <pubDate>Wed, 23 Mar 2022 13:02:46 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90706.html</guid>
+   </item>
+    <item>
+      <title>RE: [External] Re: SSL_connect() failing on SSL3_MT_NEWSESSION_TICKET on Raspberry Pi</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90705.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/23&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Helde, Paavo via openssl-users%22&quot;&gt;Helde, Paavo via openssl-users&lt;/a&gt;</description>
+      <pubDate>Wed, 23 Mar 2022 12:40:10 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90705.html</guid>
+   </item>
+    <item>
+      <title>Re: SSL_connect() failing on SSL3_MT_NEWSESSION_TICKET on Raspberry Pi</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90704.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/23&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Matt Caswell%22&quot;&gt;Matt Caswell&lt;/a&gt;</description>
+      <pubDate>Wed, 23 Mar 2022 11:55:51 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90704.html</guid>
+   </item>
+    <item>
+      <title>SSL_connect() failing on SSL3_MT_NEWSESSION_TICKET on Raspberry Pi</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90703.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/23&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Helde, Paavo via openssl-users%22&quot;&gt;Helde, Paavo via openssl-users&lt;/a&gt;</description>
+      <pubDate>Wed, 23 Mar 2022 07:40:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90703.html</guid>
+   </item>
+    <item>
+      <title>ldd do not show cygcrypto-1.1.dll and/or cygssl-1.1.dll</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90702.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/22&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Vincent Blondel%22&quot;&gt;Vincent Blondel&lt;/a&gt;</description>
+      <pubDate>Tue, 22 Mar 2022 17:40:51 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90702.html</guid>
+   </item>
+    <item>
+      <title>Re: [openssl/openssl] bio_dgram vs IPv6</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90701.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/22&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Matt Caswell%22&quot;&gt;Matt Caswell&lt;/a&gt;</description>
+      <pubDate>Tue, 22 Mar 2022 16:31:24 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90701.html</guid>
+   </item>
+    <item>
+      <title>Re: [openssl/openssl] bio_dgram vs IPv6</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90700.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/22&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Michael Richardson%22&quot;&gt;Michael Richardson&lt;/a&gt;</description>
+      <pubDate>Tue, 22 Mar 2022 16:25:15 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90700.html</guid>
+   </item>
+    <item>
+      <title>Re: [openssl/openssl] bio_dgram vs IPv6</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90699.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/22&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Michael Richardson%22&quot;&gt;Michael Richardson&lt;/a&gt;</description>
+      <pubDate>Tue, 22 Mar 2022 16:23:22 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90699.html</guid>
+   </item>
+    <item>
+      <title>bss_dgram changes and Re: run-checker NO DGRAM and test cases</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90698.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/22&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Michael Richardson%22&quot;&gt;Michael Richardson&lt;/a&gt;</description>
+      <pubDate>Tue, 22 Mar 2022 14:56:27 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90698.html</guid>
+   </item>
+    <item>
+      <title>Re: Verify signature usage</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90697.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/21&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Viktor Dukhovni%22&quot;&gt;Viktor Dukhovni&lt;/a&gt;</description>
+      <pubDate>Mon, 21 Mar 2022 18:54:39 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90697.html</guid>
+   </item>
+    <item>
+      <title>Verify signature usage</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90696.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/21&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22buy%22&quot;&gt;buy&lt;/a&gt;</description>
+      <pubDate>Mon, 21 Mar 2022 18:36:48 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90696.html</guid>
+   </item>
+    <item>
+      <title>RE: [openssl/openssl] bio_dgram vs IPv6</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90695.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/21&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Michael Wojcik%22&quot;&gt;Michael Wojcik&lt;/a&gt;</description>
+      <pubDate>Mon, 21 Mar 2022 13:37:43 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90695.html</guid>
+   </item>
+    <item>
+      <title>Re: [openssl/openssl] bio_dgram vs IPv6</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90694.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/21&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Matt Caswell%22&quot;&gt;Matt Caswell&lt;/a&gt;</description>
+      <pubDate>Mon, 21 Mar 2022 11:33:49 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90694.html</guid>
+   </item>
+    <item>
+      <title>SSL_Connect always returrns SSL_ERROR_WANT_READ/SSL_ERROR_WANT_WRITE and stuck in infinite loop</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90693.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/20&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Amit Prajapati%22&quot;&gt;Amit Prajapati&lt;/a&gt;</description>
+      <pubDate>Sun, 20 Mar 2022 18:23:28 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90693.html</guid>
+   </item>
+    <item>
+      <title>Re: [openssl/openssl] bio_dgram vs IPv6</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90692.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/20&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Michael Richardson%22&quot;&gt;Michael Richardson&lt;/a&gt;</description>
+      <pubDate>Sun, 20 Mar 2022 09:58:12 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90692.html</guid>
+   </item>
+    <item>
+      <title>Re: run-checker NO DGRAM and test cases</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90691.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/20&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Michael Richardson%22&quot;&gt;Michael Richardson&lt;/a&gt;</description>
+      <pubDate>Sun, 20 Mar 2022 09:57:26 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90691.html</guid>
+   </item>
+    <item>
+      <title>Re: run-checker NO DGRAM and test cases</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90690.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/18&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Michael Richardson%22&quot;&gt;Michael Richardson&lt;/a&gt;</description>
+      <pubDate>Fri, 18 Mar 2022 13:49:54 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90690.html</guid>
+   </item>
+    <item>
+      <title>Re: run-checker NO DGRAM and test cases</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90689.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/18&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Tomas Mraz%22&quot;&gt;Tomas Mraz&lt;/a&gt;</description>
+      <pubDate>Fri, 18 Mar 2022 12:01:13 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90689.html</guid>
+   </item>
+    <item>
+      <title>Re: run-checker NO DGRAM and test cases</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90688.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/18&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Michael Richardson%22&quot;&gt;Michael Richardson&lt;/a&gt;</description>
+      <pubDate>Fri, 18 Mar 2022 09:24:52 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90688.html</guid>
+   </item>
+    <item>
+      <title>Re: Certificate authority changes with OpenSSL</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90687.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/17&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Viktor Dukhovni%22&quot;&gt;Viktor Dukhovni&lt;/a&gt;</description>
+      <pubDate>Thu, 17 Mar 2022 20:43:18 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90687.html</guid>
+   </item>
+    <item>
+      <title>RE: Certificate authority changes with OpenSSL</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90686.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/17&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Michael Wojcik%22&quot;&gt;Michael Wojcik&lt;/a&gt;</description>
+      <pubDate>Thu, 17 Mar 2022 19:48:26 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90686.html</guid>
+   </item>
+    <item>
+      <title>Certificate authority changes with OpenSSL</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90685.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/17&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22egoitz--- via openssl-users%22&quot;&gt;egoitz--- via openssl-users&lt;/a&gt;</description>
+      <pubDate>Thu, 17 Mar 2022 18:52:12 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90685.html</guid>
+   </item>
+    <item>
+      <title>Re: run-checker NO DGRAM and test cases</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90684.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/17&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Tomas Mraz%22&quot;&gt;Tomas Mraz&lt;/a&gt;</description>
+      <pubDate>Thu, 17 Mar 2022 16:54:50 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90684.html</guid>
+   </item>
+    <item>
+      <title>Re: run-checker NO DGRAM and test cases</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90683.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/17&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Michael Richardson%22&quot;&gt;Michael Richardson&lt;/a&gt;</description>
+      <pubDate>Thu, 17 Mar 2022 16:49:42 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90683.html</guid>
+   </item>
+    <item>
+      <title>Re: run-checker NO DGRAM and test cases</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90682.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/17&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Tomas Mraz%22&quot;&gt;Tomas Mraz&lt;/a&gt;</description>
+      <pubDate>Thu, 17 Mar 2022 10:04:56 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90682.html</guid>
+   </item>
+    <item>
+      <title>run-checker NO DGRAM and test cases</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90681.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/17&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Michael Richardson%22&quot;&gt;Michael Richardson&lt;/a&gt;</description>
+      <pubDate>Thu, 17 Mar 2022 09:00:34 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90681.html</guid>
+   </item>
+    <item>
+      <title>Re: TLS KDF and SSH KDF in openssl 1.0.2 (FIPS 140-3)</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90680.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/17&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Dr Paul Dale%22&quot;&gt;Dr Paul Dale&lt;/a&gt;</description>
+      <pubDate>Thu, 17 Mar 2022 08:25:08 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90680.html</guid>
+   </item>
+    <item>
+      <title>TLS KDF and SSH KDF in openssl 1.0.2 (FIPS 140-3)</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90679.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/17&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Dhananjay kumar%22&quot;&gt;Dhananjay kumar&lt;/a&gt;</description>
+      <pubDate>Thu, 17 Mar 2022 08:20:04 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90679.html</guid>
+   </item>
+    <item>
+      <title>Re: OpenSSL version 1.1.1n published</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90678.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/16&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Yann Droneaud%22&quot;&gt;Yann Droneaud&lt;/a&gt;</description>
+      <pubDate>Wed, 16 Mar 2022 18:24:14 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90678.html</guid>
+   </item>
+    <item>
+      <title>Re: Source compilation of OpenSSL 3.0</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90677.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/16&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Kory Hamzeh%22&quot;&gt;Kory Hamzeh&lt;/a&gt;</description>
+      <pubDate>Wed, 16 Mar 2022 16:15:47 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90677.html</guid>
+   </item>
+    <item>
+      <title>Source compilation of OpenSSL 3.0</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90676.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/16&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22~ Kunal Sharma ~%22&quot;&gt;~ Kunal Sharma ~&lt;/a&gt;</description>
+      <pubDate>Wed, 16 Mar 2022 11:33:26 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90676.html</guid>
+   </item>
+    <item>
+      <title>Re: OpenSSL version 1.1.1n published</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90675.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/15&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Matt Caswell%22&quot;&gt;Matt Caswell&lt;/a&gt;</description>
+      <pubDate>Tue, 15 Mar 2022 22:52:39 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90675.html</guid>
+   </item>
+    <item>
+      <title>Re: OpenSSL version 1.1.1n published</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90674.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/15&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Matt Caswell%22&quot;&gt;Matt Caswell&lt;/a&gt;</description>
+      <pubDate>Tue, 15 Mar 2022 22:49:27 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90674.html</guid>
+   </item>
+    <item>
+      <title>RE: OpenSSL version 1.1.1n published</title>
+      <link>http://www.mail-archive.com/openssl-users@openssl.org/msg90673.html</link>
+      <description>&lt;font color=#6f6f6f&gt; 2022/03/15&lt;/font&gt; -- &lt;a href=&quot;http://www.mail-archive.com/search?l=openssl-users@openssl.org&amp;q=from:%22Michael Wojcik%22&quot;&gt;Michael Wojcik&lt;/a&gt;</description>
+      <pubDate>Tue, 15 Mar 2022 21:08:47 GMT</pubDate>
+      <guid isPermaLink="true">http://www.mail-archive.com/openssl-users@openssl.org/msg90673.html</guid>
+   </item>
+ 
+  </channel>
+  </rss>
+<!-- MHonArc v2.6.19+ -->

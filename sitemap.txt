@@ -1,0 +1,129 @@
+/
+	err404.html
+	index.html
+	roadmap.html
+	robots.txt
+	sitemap.txt
+
+	community/
+		binaries.html
+		committers.html
+		conduct.html
+		contacts.html
+		getting-started.html
+		index.html
+		mailinglists.html
+		omc-alumni.html
+		omc.html
+		otc.html
+		thanks.html
+
+	docs/
+		faq-1-legal.txt
+		faq-2-user.txt
+		faq-3-prog.txt
+		faq-4-build.txt
+		faq-5-misc.txt
+		faq-6-old.txt
+		faq.html
+		fips.html
+		index.html
+
+		fips/
+
+		images/
+			300Component.png
+			300FIPSStateMachine.png
+			300Packaging.png
+			300PropDefinition.png
+			300PropNumberLiteral.png
+			300PropPropertyName.png
+			300PropQuery.png
+			300PropQuotedString.png
+			300PropStringLiteral.png
+			300PropUnquotedString.png
+			300PropValue.png
+			300ProviderCollab.png
+			AsIsComponent.png
+			AsIsPackaging.png
+			DigestExplicit.png
+			DigestSignFIPSExplicit.png
+			DigestSignFIPSModulePerspective.png
+			ToBeComponent.png
+			ToBePackaging.png
+
+	news/
+		changelog.html
+		cl111.txt
+		cl30.txt
+		index.html
+		newsflash.txt
+		newslog.html
+		openssl-1.1.1-notes.html
+		openssl-3.0-notes.html
+		pgpkey.html
+		vulnerabilities-0.9.6.html
+		vulnerabilities-0.9.7.html
+		vulnerabilities-0.9.8.html
+		vulnerabilities-1.0.0.html
+		vulnerabilities-1.0.1.html
+		vulnerabilities-1.0.2.html
+		vulnerabilities-1.1.0.html
+		vulnerabilities-1.1.1.html
+		vulnerabilities-3.0.html
+		vulnerabilities.html
+
+		secadv/
+
+	policies/
+		cla.html
+		glossary.html
+		index.html
+		omc-bylaws.html
+		openssl_ccla.pdf
+		openssl_icla.pdf
+		osf-bylaws.pdf
+		oss-bylaws.pdf
+		platformpolicy.html
+		releasestrat.html
+		secpolicy.html
+		ticket-activity.png
+		trademark.html
+		travel.html
+
+		general/
+			committer-policy.html
+			contractor-expectations.html
+			index.html
+			policy-change-process.html
+			versioning-policy.html
+			voting-procedure.html
+
+		technical/
+			api-compat.html
+			assembler.html
+			coding-style.html
+			design-process.html
+			documentation-policy.html
+			index.html
+			policy-change-process.html
+			stable-release-updates.html
+			testing.html
+			voting-procedure.html
+
+	source/
+		apache-license-2.0.txt
+		gitrepo.html
+		index.html
+		license-openssl-ssleay.txt
+		license.html
+		mirror.html
+		OCB-patent-grant-OpenSSL.pdf
+
+		old/
+
+	support/
+		acks.html
+		contracts.html
+		donations.html
+		index.html

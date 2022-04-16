@@ -1,0 +1,36 @@
+== Meta (meta.wikimedia.org) ==
+
+Generated using [https://xtools.wmflabs.org/patrollerstats/meta.wikimedia.org/2022-04-10/2022-04-10?actions=patrol XTools] on 2022-04-10 13:10
+
+{| class="wikitable sortable"
+! #
+! Username
+! User groups
+! Total
+! Patrol
+|-
+| {{FORMATNUM:1}}
+| [[User:Minorax|Minorax]]
+| 
+| {{FORMATNUM:68}}
+| {{FORMATNUM:68}}
+|-
+| {{FORMATNUM:2}}
+| [[User:1997kB|1997kB]]
+| 
+| {{FORMATNUM:8}}
+| {{FORMATNUM:8}}
+|-
+| {{FORMATNUM:3}}
+| [[User:Svartava|Svartava]]
+| 
+| {{FORMATNUM:4}}
+| {{FORMATNUM:4}}
+|-
+| {{FORMATNUM:4}}
+| [[User:Hasley|Hasley]]
+| 
+| {{FORMATNUM:2}}
+| {{FORMATNUM:2}}
+|-
+|}

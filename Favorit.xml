@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<library>
+  <list_title>Favorit</list_title>
+  <blurb></blurb>
+  <url>https://books.google.com/books?uid=107581366242950536724&amp;as_coll=0&amp;hl=id&amp;authuser=0</url>
+  <books>
+    <book>
+      <id>zIGYDwAAQBAJ</id>
+      <url>https://books.google.com/books?id=zIGYDwAAQBAJ&amp;hl=id&amp;authuser=0</url>
+      <title>Manajemen Kearsipan</title>
+      <contributor>Sattar</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>6232094514</value>
+      </identifier>
+      <labels />
+    </book>
+    <book>
+      <id>d6jPAKxTHRYC</id>
+      <url>https://books.google.com/books?id=d6jPAKxTHRYC&amp;hl=id&amp;authuser=0</url>
+      <title>English as a Global Language</title>
+      <contributor>David Crystal, Honorary Professor of Linguistics David Crystal</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0521530326</value>
+      </identifier>
+      <labels />
+    </book>
+    <book>
+      <id>kDD20O3yj6sC</id>
+      <url>https://books.google.com/books?id=kDD20O3yj6sC&amp;hl=id&amp;authuser=0</url>
+      <title>The Language Revolution</title>
+      <contributor>David Crystal</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0745637973</value>
+      </identifier>
+      <labels />
+    </book>
+  </books>
+</library>

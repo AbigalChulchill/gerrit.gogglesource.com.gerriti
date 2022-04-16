@@ -1,0 +1,160 @@
+== [[User:AriesTriputranto9|AriesTriputranto9]] ==
+
+Dihasilkan menggunakan [https://xtools.wmflabs.org/ec-generalstats/id.wikipedia.org/AriesTriputranto9 XTools] pada 2022-04-10 12:47
+
+=== Statistik umum ===
+
+{| class="wikitable sortable"
+| ID pengguna
+| 1324119
+|-
+| Waktu pendaftaran
+| 2022-04-05 17:18
+|-
+| Kelompok pengguna
+| pengguna terkonfirmasi otomatis
+|-
+| Merupakan pengurus?
+| 0
+|-
+| Suntingan pertama
+| [[Special:Diff/20939618|2022-04-05 17:26]]
+|-
+| Suntingan terakhir
+| [[Special:Diff/20960601|2022-04-10 12:39]]
+|-
+| Tindakan tercatat terakhir
+| [[Special:Log/redirect/logid/16472186|2022-04-10 12:01]]
+
+|-
+| Suntingan hidup
+| [[Special:Contributions/AriesTriputranto9|{{FORMATNUM:9}}]] (100%)
+|-
+| Suntingan terhapus
+| [[Special:DeletedContributions/AriesTriputranto9|{{FORMATNUM:0}}]] (0%)
+|-
+| Total suntingan
+| {{FORMATNUM:9}}
+|-
+| Suntingan dalam 24 jam terakhir
+| {{FORMATNUM:8}}
+|-
+| Suntingan dalam 7 hari terakhir
+| {{FORMATNUM:9}}
+|-
+| Suntingan dalam 30 hari terakhir
+| {{FORMATNUM:9}}
+|-
+| Suntingan dalam 365 hari terakhir
+| {{FORMATNUM:9}}
+|-
+| Rata-rata suntingan per hari
+| {{FORMATNUM:2.25}} ({{FORMATNUM:4}} hari)
+|-
+| Rata-rata ukuran suntingan*
+| {{FORMATNUM:95.6}} bita
+|-
+| Suntingan kecil
+| {{FORMATNUM:5}} (55,6%)
+|-
+| Suntingan sederhana (<20 bita)*
+| {{FORMATNUM:3}} (33,3%)
+|-
+| Suntingan besar (>1000 bita)*
+| {{FORMATNUM:0}} (0%)
+|}
+
+=== Halaman ===
+
+{| class="wikitable sortable"
+| Halaman tersunting (total)
+| {{FORMATNUM:3}}
+|-
+| Rata-rata suntingan per halaman
+| {{FORMATNUM:3}}
+|-
+| Halaman yang dibuat
+| [https://xtools.wmflabs.org/pages/id.wikipedia.org/AriesTriputranto9/all {{FORMATNUM:2}}] (0 terhapus setelahnya)
+|-
+| Halaman terpindah
+| [[Special:Log/move/AriesTriputranto9|{{FORMATNUM:0}}]]
+|-
+|}
+
+=== Berkas ===
+
+{| class="wikitable sortable"
+| Berkas terunggah
+| [https://id.wikipedia.org/wiki/Special%3ALog%2Fupload%2FAriesTriputranto9?subtype=upload {{FORMATNUM:0}}]
+|-
+| Berkas terunggah (Commons)
+| [https://commons.wikimedia.org/wiki/Special:Log?type=upload&subtype=upload&user=AriesTriputranto9 {{FORMATNUM:0}}]
+|-
+|}
+
+
+=== Tindakan ===
+
+{| class="wikitable sortable"
+| Berterimakasih
+| [[Special:Log/thanks/AriesTriputranto9|{{FORMATNUM:0}}]]
+|-
+| Menyetujui
+| [https://id.wikipedia.org/wiki/Special%3ALog%2Freview%2FAriesTriputranto9?&amp;subtype=accept {{FORMATNUM:0}}]
+|-
+| Berpatroli
+| [[Special:Log/patrol/AriesTriputranto9|{{FORMATNUM:0}}]]
+|-
+| Membuat akun
+| [[Special:Log/newusers/AriesTriputranto9|{{FORMATNUM:0}}]]
+|-
+|}
+
+=== Pemblokiran (ulang) ===
+
+{| class="wikitable sortable"
+| Pemblokiran terpanjang
+| &ndash;
+|-
+| Pemblokiran saat ini
+| &ndash;
+|-
+|}
+
+=== Jumlah suntingan global (perkiraan) ===
+
+{| class="wikitable sortable"
+|-
+| &#9658;[https://id.wikipedia.org/wiki/Special%3AContributions%2FAriesTriputranto9 id.wikipedia.org]
+| [https://xtools.wmflabs.org/topedits/id.wikipedia.org/AriesTriputranto9 {{FORMATNUM:9}}]
+|-
+| [https://www.mediawiki.org/wiki/Special%3AContributions%2FAriesTriputranto9 www.mediawiki.org]
+| [https://xtools.wmflabs.org/topedits/www.mediawiki.org/AriesTriputranto9 {{FORMATNUM:2}}]
+|-
+| [https://af.wikipedia.org/wiki/Special%3AContributions%2FAriesTriputranto9 af.wikipedia.org]
+| [https://xtools.wmflabs.org/topedits/af.wikipedia.org/AriesTriputranto9 {{FORMATNUM:0}}]
+|-
+| [https://www.wikidata.org/wiki/Special%3AContributions%2FAriesTriputranto9 www.wikidata.org]
+| [https://xtools.wmflabs.org/topedits/www.wikidata.org/AriesTriputranto9 {{FORMATNUM:0}}]
+|-
+| [https://simple.wikipedia.org/wiki/Special%3AContributions%2FAriesTriputranto9 simple.wikipedia.org]
+| [https://xtools.wmflabs.org/topedits/simple.wikipedia.org/AriesTriputranto9 {{FORMATNUM:0}}]
+|-
+| [https://meta.wikimedia.org/wiki/Special%3AContributions%2FAriesTriputranto9 meta.wikimedia.org]
+| [https://xtools.wmflabs.org/topedits/meta.wikimedia.org/AriesTriputranto9 {{FORMATNUM:0}}]
+|-
+| [https://map-bms.wikipedia.org/wiki/Special%3AContributions%2FAriesTriputranto9 map-bms.wikipedia.org]
+| [https://xtools.wmflabs.org/topedits/map-bms.wikipedia.org/AriesTriputranto9 {{FORMATNUM:0}}]
+|-
+| [https://login.wikimedia.org/wiki/Special%3AContributions%2FAriesTriputranto9 login.wikimedia.org]
+| [https://xtools.wmflabs.org/topedits/login.wikimedia.org/AriesTriputranto9 {{FORMATNUM:0}}]
+|-
+| [https://jv.wikipedia.org/wiki/Special%3AContributions%2FAriesTriputranto9 jv.wikipedia.org]
+| [https://xtools.wmflabs.org/topedits/jv.wikipedia.org/AriesTriputranto9 {{FORMATNUM:0}}]
+|-
+| [https://fr.wikipedia.org/wiki/Special%3AContributions%2FAriesTriputranto9 fr.wikipedia.org]
+| [https://xtools.wmflabs.org/topedits/fr.wikipedia.org/AriesTriputranto9 {{FORMATNUM:0}}]
+|-
+|}
+
+<nowiki>*</nowiki> Data dibatasi hingga 5.000 suntingan terakhir
